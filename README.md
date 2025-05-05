@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shyam_1934" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://x.com/shyam_1934)" alt="shyam_1934" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shyam-dhamecha-180297184" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/shyam-dhamecha-180297184/)" alt="shyam-dhamecha-180297184" height="30" width="40" /></a>
+<a href="https://twitter.com/shyam_1934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_1934" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shyam-dhamecha-180297184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-dhamecha-180297184" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/spd_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spd_19" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/spd__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spd__19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/spd_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spd_19" height="30" width="40" /></a>
